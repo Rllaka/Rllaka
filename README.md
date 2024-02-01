@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently learning Web Development Technologies in Frontend angular-js react Backend nodejs and Databases (MYSQL).<br>My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier. I take criticism well, and use suggestions to improve the product. The wants and/or needs of the userbase are always my priority, because without a supportive userbase, the product has no real purpose.
+ I’m currently learning Web Development Technologies in Frontend react-js react Backend nodejs and Databases (MYSQL).<br>My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier. I take criticism well, and use suggestions to improve the product. The wants and/or needs of the userbase are always my priority, because without a supportive userbase, the product has no real purpose.
 
 
 ## 🌐 Socials:
